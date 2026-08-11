@@ -1,0 +1,10 @@
+title: 从零实现工业伺服
+description: ESP32、电机驱动、步进电机、PMSM与FOC学习记录
+theme: minima
+lang: zh-CN
+timezone: Asia/Shanghai
+
+header_pages:
+  - index.md
+  - categories.md
+  - about.md
