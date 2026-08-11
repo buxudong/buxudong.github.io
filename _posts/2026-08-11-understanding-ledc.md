@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "从STEP脉冲理解ESP32的LEDC"
-date: 2026-08-11 14:00:00 +0800
+date: 2026-08-11 12:00:00 +0800
 categories: [ESP32, 电机控制]
 tags: [LEDC, PWM, TMC2209]
 ---
